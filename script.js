@@ -20,7 +20,13 @@ const motivationalMessages = [
     "Be the kind of person that your kids would look up to, If you weren't their parents",
     "Space I can recover.Time, never",
     "You are only entitled to the action,never to its fruits",
-    
+    "Principles are far more important than education",
+    "Life is compound interest",
+    "A great man is hard on himself, a small man is hard on others.",
+    "What we thik, we become.",
+    "You can be competitive while still being a kind person.",
+    "Rich people have money. Wealthy people have time.",
+    "Complaining is not a strategy.You have to work with the world as you find it,not as you would have it be.",
     // ... add more motivational messages (total 365 messages)
   ];
   
