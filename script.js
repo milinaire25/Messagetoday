@@ -27,6 +27,11 @@ const motivationalMessages = [
     "You can be competitive while still being a kind person.",
     "Rich people have money. Wealthy people have time.",
     "Complaining is not a strategy.You have to work with the world as you find it,not as you would have it be.",
+    "Blaming others will never get you what you want",
+    "I'm convinced that the key to greatness is simply having a delusional level of belief in your incredible future",
+    "Happiness is being satisfied with what you have. Success comes from dis-satisfaction. Choose",
+    "Make your vision so clear that your fears become irrelevant",
+    "",
     // ... add more motivational messages (total 365 messages)
   ];
   
