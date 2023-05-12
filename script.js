@@ -31,7 +31,20 @@ const motivationalMessages = [
     "I'm convinced that the key to greatness is simply having a delusional level of belief in your incredible future",
     "Happiness is being satisfied with what you have. Success comes from dis-satisfaction. Choose",
     "Make your vision so clear that your fears become irrelevant",
-    "",
+    "Your value isn't in your valuation",
+    "A hungry stomach, an empty pocket and a broken heart can teach the best lessons of life",
+    "You never know how strong you are until being strong is the only choice you have",
+    "The most dangerous person is the one who listens, thinks and observe",
+    "The reason most people are losing is because they're scared of losing",
+    "Nothing is as priceless as the treasure of a clean conscience.Do good especially when it's the hardest",
+    "Everyone you meet is fighting a battle you know nothing about. Be kind, always.",
+    "The master has failed more times than the beginner has even tried",
+    "I never met a strong person with an easy past",
+    "The best fighter is never angry",
+    "Your past was perfect it made you you",
+    "A man once told me the most important thing every man should know, is what he would die for",
+    "Great leaders dont blame the tools they are given,they work to sharpen them",
+    
     // ... add more motivational messages (total 365 messages)
   ];
   
