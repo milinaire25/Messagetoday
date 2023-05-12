@@ -23,7 +23,7 @@ const motivationalMessages = [
     "Principles are far more important than education",
     "Life is compound interest",
     "A great man is hard on himself, a small man is hard on others.",
-    "What we thik, we become.",
+    "What we think, we become.",
     "You can be competitive while still being a kind person.",
     "Rich people have money. Wealthy people have time.",
     "Complaining is not a strategy.You have to work with the world as you find it,not as you would have it be.",
