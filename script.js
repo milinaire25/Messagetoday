@@ -44,8 +44,7 @@ const motivationalMessages = [
     "Your past was perfect it made you you",
     "A man once told me the most important thing every man should know, is what he would die for",
     "Great leaders dont blame the tools they are given,they work to sharpen them",
-    
-    // ... add more motivational messages (total 365 messages)
+     // ... add more motivational messages (total 365 messages)
   ];
   
   function getMessageForToday() {
