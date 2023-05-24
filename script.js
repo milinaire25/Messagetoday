@@ -7,7 +7,7 @@ const motivationalMessages = [
     "If you want less competition, pick a harder problem",
     "The man who loves walking will walk further than the man who loves the destination",
     "It is fruitless to wish you had started years ago. In the future you will wish you had started today",
-    "Be a problem Solving machibe. Everyday there will be many problesm.They will never end.The more successful you are bigger your problems will be.To achieve your goals you must be a problem solving machine",
+    "Be a problem solving machine. Everyday there will be many problem.They will never end.The more successful you are bigger your problems will be.To achieve your goals you must be a problem solving machine",
     "Be the person who still tries.After failure,after frustration,after disappointment,after exhaustion,after heartache, be the person who musters up the courage to believe that a new attempt can manifest a new outcome.Be the person who still tries",
     "Chase real dopamine.Sun,Weights,Runs,Walks,Tennis,Hard work,Breathwork,Meditate,Visualize,Design,Serve,Connect,Create.Do real work",
     "Everyone must choose one of two pains, The pain of discipline or the pain of regret",
@@ -44,6 +44,8 @@ const motivationalMessages = [
     "Your past was perfect it made you you",
     "A man once told me the most important thing every man should know, is what he would die for",
     "Great leaders dont blame the tools they are given,they work to sharpen them",
+    "If you want to improve, be content to be thought foolish and stupid.",
+    "Time is your most precious resource",
      // ... add more motivational messages (total 365 messages)
   ];
   
