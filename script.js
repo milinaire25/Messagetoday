@@ -46,6 +46,12 @@ const motivationalMessages = [
     "Great leaders dont blame the tools they are given,they work to sharpen them",
     "If you want to improve, be content to be thought foolish and stupid.",
     "Time is your most precious resource",
+    "Those who are in love with practice without theoretical knowledge are like sailor who goes onto a ship without ruder or compass and who never can be certain whither he is going",
+    "The distance between dream and reality is called action",
+    "Reminder to let it go, those who wrong you wrong themselves",
+    "Inaction has killed more dreams than failure ever will",
+    "Big ambitions,low expectations, and high standards are a powerful combination for living your best life",
+    "Don't just be at the table, Be the table",
      // ... add more motivational messages (total 365 messages)
   ];
   
