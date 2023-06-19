@@ -52,6 +52,7 @@ const motivationalMessages = [
     "Inaction has killed more dreams than failure ever will",
     "Big ambitions,low expectations, and high standards are a powerful combination for living your best life",
     "Don't just be at the table, Be the table",
+    "A true father is there for you when you fall down, be one when the time comes",
      // ... add more motivational messages (total 365 messages)
   ];
   
